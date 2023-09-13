@@ -1,0 +1,651 @@
+
+
+
+h3 {
+  color: #5D3028;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 30px;
+  line-height: 35px;
+
+  
+}
+
+h4 {
+  color: #5D3028;
+
+  font-family: Roboto;
+  font-size: 23px;
+  line-height: 30px;
+  padding: 0 8%;
+}
+
+
+
+/*curso*/
+
+#h4-curso {
+  text-align: center;
+}
+
+.curso-containers {
+    /* border: solid 3px black;*/
+  margin: 0 auto;
+  padding-bottom: 3%;
+  
+
+
+}
+
+
+.foto-curso {
+  width: 100%;
+  border-radius: 20px;
+}
+
+
+#curso-p {
+  padding: 0 8%;
+  color: #5D3028;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 200%;
+
+}
+
+.planos-curso {
+    border-radius: 24px;
+    border: 5px solid #FBE3E3;
+    background: #FFF;
+    width: 275px;
+    max-width: 100%;
+    padding: 0 19px;
+    margin: 5% auto;
+}
+
+
+
+#curso-rosa {
+
+  background: #FBE3E3;
+}
+
+
+
+p {
+  line-height: 30px;
+  color: #5D3028;
+  text-align: justify;
+  font-weight: 400;
+  font-family: Roboto;
+  padding: 0 8%;
+
+}
+
+#curso-preço {
+  color: #5D3028;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 163.265%;
+
+}
+
+
+.curso-lista {
+  list-style: none;
+  color: #5D3028;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 18px;
+
+}
+
+.btn-curso {
+  display: flex;
+  width: 150px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+  background: #5D3028;
+  color: #FFF;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  margin: 0 auto;
+  margin-bottom: 15px;
+
+
+
+}
+
+.check-curso {
+  width: 7%;
+  height: 7%;
+}
+
+.li-curso {
+  line-height: 30px;
+
+}
+
+
+.card-curso {
+  margin-bottom: 15%;
+
+
+}
+
+
+
+/*receita de torta*/
+
+
+
+
+
+p {
+  line-height: 30px;
+  color: #5D3028;
+  text-align: justify;
+  font-weight: 400;
+  font-family: Roboto;
+  text-align: center;
+  padding: 0 8%;
+}
+
+
+
+
+.receita-texto {
+  width: 70%;
+  margin: 0 auto;
+  line-height: 25px;
+  color: #5D3028;
+  font-weight: 400;
+  font-family: Roboto;
+  text-align: center;
+  list-style: none;
+
+}
+
+.listalista {
+  
+  padding: 0 8%;
+  padding: 0 8%;
+  line-height: 25px;
+  color: #5D3028;
+  font-weight: 400;
+  font-family: Roboto;
+  text-align: center;
+  list-style: none;
+
+}
+
+.titulos-receita {
+
+  text-align: center;
+}
+
+
+.receitas-cont {
+
+  padding: 0.8%;
+
+}
+
+.receita-num {
+  text-align: left;
+  padding: 0 8%;
+
+}
+
+
+
+
+
+.btn-voltar {
+  padding: 2%;
+}
+
+
+
+/*receita*/
+
+
+
+
+
+
+.acordeao {
+
+  background: #F6ECDE;
+  color: #5D3028;
+  cursor: pointer;
+  padding: 0 8% 2%;
+  width: 70%;
+  height: 100px;
+  border: solid pink 2px;
+  text-align: left;
+  font-size: 20px;
+  font-family: Roboto;
+  border-radius: 19px;
+  transition: 0.4s;
+  font-weight: 700;
+
+
+
+}
+
+.active,
+.acordeao:hover {
+  background-color: #FBE3E3;
+  border: 2px solid pink;
+}
+
+.painel {
+
+  width: 70%;
+  display: none;
+  background-color: #F6ECDE;
+  padding: 0 0 3%;
+  overflow: hidden;
+  border-radius: 10px 10px 24px 24px;
+  border: 2px solid pink;
+
+
+}
+
+.item {
+
+
+
+  margin: 0 0 2%;
+  display: grid;
+  place-items: center;
+
+}
+
+.btn-receita {
+  width: 55px;
+  height: 55px;
+  right: 20%;
+  top: 23%;
+  display: flex;
+  position: absolute;
+}
+
+.mais-receitas {
+  background: white;
+  color: rgb(253, 154, 170);
+  font-size: 42px;
+  padding: 2px 14px;
+  border-radius: 83px;
+  left: 62%;
+  top: 6%;
+  position: relative;
+
+
+}
+
+.mais-receitas-torta {
+  background: white;
+  color: rgb(253, 154, 170);
+  font-size: 42px;
+  padding: 2px 14px;
+  border-radius: 83px;
+  left: 60%;
+  top: 7%;
+  position: relative;
+  font-weight: 700;
+
+}
+
+
+
+
+.list-acordeao {
+  list-style: none;
+  line-height: 70px;
+  color: #5D3028;
+  width: 89%;
+  font-family: Roboto;
+  font-weight: 700;
+  display: flex;
+
+}
+
+.list-acordeao a {
+  text-decoration: none;
+  color: #5D3028;
+  background-color: rgb(240, 219, 222);
+  cursor: pointer;
+  font-size: 23px;
+}
+
+.fotos-receitas {
+
+  width: 83%;
+  border-radius: 62%;
+
+}
+
+.icons-receita {
+  background-color: #FBE3E3;
+  max-width: 239px;
+  width: 100%;
+  text-align: center;
+  border-radius: 63px;
+  line-height: 43px;
+  border: 2px solid pink;
+  padding: 4%;
+  margin: 25px auto;
+}
+
+
+.icons-receita a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.icons-receita p {
+
+  color: #5D3028;
+  background-color: #F6ECDE;
+  border: 2px solid pink;
+  border-radius: 15px;
+  font-size: 23px;
+  padding: 5px;
+}
+
+
+.conteudo-painel {
+  margin: 0 auto;
+  display: block;
+}
+
+.foto-ingrediente img{
+  
+    width: 74%;
+   
+    padding: 0 12.5%;
+}
+
+.foto-ingrediente {
+    margin: 3% 10%;
+}
+
+.curso-h3{
+  color: #5D3028;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 20px;
+  line-height: 35px;
+
+
+}
+
+
+@media screen and (min-width: 750px) {
+
+
+
+  /*Receita*/
+
+
+
+.mais-receitas {
+  background: white;
+  color: rgb(253, 154, 170);
+  font-size: 42px;
+  padding: 2px 14px;
+  border-radius: 83px;
+  left: 80%;
+  top: 6%;
+  position: relative;}
+
+
+
+.mais-receitas-torta {
+  background: white;
+  color: rgb(253, 154, 170);
+  font-size: 42px;
+  padding: 2px 14px;
+  border-radius: 83px;
+  left: 79%;
+  top: 7%;
+  position: relative;
+  font-weight: 700;}
+
+  svg{
+    width: 8%;
+  }
+
+
+  .curso-containers {
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 3%;
+    display: flex;
+    max-width: 1000px;}
+
+    .planos-curso {
+      border-radius: 24px;
+      border: 5px solid #FBE3E3;
+      background: #FFF;
+      width: 275px;
+      max-width: 100%;
+      padding: 0 19px;
+      margin: 5% auto;
+  }
+
+  .card-curso {
+  
+    display: flex;display: flex;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 3%;
+}
+
+}
+
+
+@media screen and (min-width: 900px) {
+
+
+.video-receita  {
+    width: 900px;
+    margin: 20px auto;
+  }
+
+
+
+.foto-ingrediente {
+  width: 450px;
+  display: flex;
+    margin: 3% 10%;
+    width: 77%;
+    height: 350px;
+    align-items: stretch;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    
+}
+
+
+
+  .acordeao {
+    background: #F6ECDE;
+    color: #5D3028;
+    cursor: pointer;
+    padding: 0 8 16px;
+    width: 849px;
+    height: 100px;
+    border: solid pink 2px;
+    text-align: left;
+    font-size: 20px;
+    font-family: Roboto;
+    border-radius: 19px;
+    transition: 0.4s;
+    font-weight: 700;
+  }
+
+  .conteudo-painel {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    overflow: scroll;
+    margin: 0 auto;
+    width: 806px;
+  }
+
+
+  .painel {
+    width: 849px;
+    display: none;
+    background-color: rgb(246, 236, 222);
+    padding: 0px 0px 3%;
+    overflow: hidden;
+    border-radius: 10px 10px 24px 24px;
+    border: 2px solid pink;
+  }
+
+
+  .icons-receita {
+    background-color: #FBE3E3;
+    max-width: 250px;
+    width: 100%;
+    text-align: center;
+    border-radius: 63px;
+    line-height: 43px;
+    border: 2px solid pink;
+    padding: 4%;
+    margin: 25px auto;
+  }
+
+  .mais-receitas {
+    background: white;
+    color: rgb(253, 154, 170);
+    font-size: 42px;
+    padding: 2px 14px;
+    border-radius: 83px;
+    left: 80%;
+    top: 6%;
+    position: relative;}
+
+
+  .mais-receitas-torta {
+    background: white;
+    color: rgb(253, 154, 170);
+    font-size: 42px;
+    padding: 2px 14px;
+    border-radius: 83px;
+    left: 79%;
+    top: 7%;
+    position: relative;
+    font-weight: 700;}
+
+    svg{
+      width: 6%;
+    }
+
+    .curso-containers {
+      
+        width: 100%;
+        margin: 0 auto;
+        padding-bottom: 3%;
+        display: flex;
+        max-width: 1000px;
+    
+  }
+
+  .text-containers{
+    text-align: center;
+
+  }
+
+  .curso-p {
+    line-height: 30px;
+    color: #5D3028;
+    text-align: justify;
+    font-weight: 400;
+    font-family: Roboto;
+    text-align: center;
+    padding: 0 8%;
+    font-size: 19px;
+    
+  }
+
+ .listalista {
+  
+ 
+  line-height: 25px;
+  color: #5D3028;
+  font-weight: 400;
+  font-family: Roboto;
+  list-style: none;
+  text-align: left;
+
+}
+
+.obs-receita {
+  font-size: 12px;
+}
+
+.titulos-receita {
+
+  text-align: left;
+}
+
+#passo-a-passo{text-align: left;}
+
+.foto-ingrediente img {
+  width: 74%;
+  padding: 0 12.5%;
+  margin: 22% 0;
+
+}
+
+ @media screen and (min-width: 1200px){
+
+ .foto-ingrediente img{
+  display: flex;
+ 
+  width: 74%;
+}
+
+.video-receita  {
+  width: 900px;
+  margin: 0 auto;
+}
+
+p {
+  line-height: 30px;
+  color: #5D3028;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: Roboto;
+ 
+  padding: 0 8%;
+}
+
+main{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+ }
+
+}
+  /*Receita Torta*/
